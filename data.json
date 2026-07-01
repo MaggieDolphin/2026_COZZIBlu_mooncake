@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "業務一部", "target": 500, "current": 0 },
+  { "id": 2, "name": "業務二部", "target": 500, "current": 0 },
+  { "id": 3, "name": "行銷公關部", "target": 200, "current": 0 },
+  { "id": 4, "name": "餐飲部", "target": 800, "current": 0 },
+  { "id": 5, "name": "客房部", "target": 300, "current": 0 },
+  { "id": 6, "name": "客務部", "target": 150, "current": 0 },
+  { "id": 7, "name": "財務部", "target": 100, "current": 0 },
+  { "id": 8, "name": "人力資源部", "target": 100, "current": 0 },
+  { "id": 9, "name": "工程部", "target": 100, "current": 0 },
+  { "id": 10, "name": "總經理室", "target": 150, "current": 0 },
+  { "id": 11, "name": "VIP俱樂部", "target": 400, "current": 0 },
+  { "id": 12, "name": "現場零售", "target": 300, "current": 0 }
+]
