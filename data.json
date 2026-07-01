@@ -1,6 +1,6 @@
 [
   { "id": 1, "name": "業務", "currentStar": 0, "currentMoon": 0 },
-  { "id": 2, "name": "公關", "currentStar": 0, "currentMoon": 0 },
+  { "id": 2, "name": "公關", "currentStar": 0, "currentMoon": 10 },
   { "id": 3, "name": "客務", "currentStar": 0, "currentMoon": 0 },
   { "id": 4, "name": "活動", "currentStar": 0, "currentMoon": 0 },
   { "id": 5, "name": "工程", "currentStar": 0, "currentMoon": 0 },
