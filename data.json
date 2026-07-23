@@ -8,7 +8,7 @@
   { "id": 7, "name": "安全", "currentStar": 13, "currentMoon": 10 },
   { "id": 8, "name": "資訊", "currentStar": 6, "currentMoon": 0 },
   { "id": 9, "name": "人資", "currentStar": 0, "currentMoon": 0 },
-  { "id": 10, "name": "西餐", "currentStar": 1, "currentMoon": 1 },
+  { "id": 10, "name": "西餐", "currentStar": 3, "currentMoon": 1 },
   { "id": 11, "name": "中餐", "currentStar": 4, "currentMoon": 16 },
   { "id": 12, "name": "宴會", "currentStar": 0, "currentMoon": 0 },
   { "id": 13, "name": "酒吧", "currentStar": 0, "currentMoon": 0 }
