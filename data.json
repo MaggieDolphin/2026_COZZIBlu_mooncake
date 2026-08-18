@@ -7,7 +7,7 @@
   { "id": 6, "name": "採購/財務", "currentStar": 36, "currentMoon": 140 },
   { "id": 7, "name": "安全", "currentStar": 17, "currentMoon": 10 },
   { "id": 8, "name": "資訊", "currentStar": 9, "currentMoon": 2 },
-  { "id": 9, "name": "人資", "currentStar": 10, "currentMoon": 0 },
+  { "id": 9, "name": "人資", "currentStar": 5, "currentMoon": 0 },
   { "id": 10, "name": "西餐", "currentStar": 36, "currentMoon": 3 },
   { "id": 11, "name": "中餐", "currentStar": 125, "currentMoon": 27 },
   { "id": 12, "name": "宴會", "currentStar": 1, "currentMoon": 5 },
